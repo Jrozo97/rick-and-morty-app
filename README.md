@@ -102,7 +102,10 @@ src/
  │   └─ Pagination
  │      └─ Pagination.tsx  
  │   └─ ListCharacter.tsx 
- │      └─ ListCharacter.tsx   # Componente de paginación reutilizable # Página principal con grid de personajes
+ │      └─ ListCharacter.tsx # Componente de paginación reutilizable # Página principal con grid de personajes
+ ├─ views/
+ │   └─ CharacterDetail
+ │      └─ CharacterDetail.tsx     
  ├─ App.tsx
  └─ main.tsx
 ```
@@ -115,6 +118,8 @@ src/
 - ✅ Paginación con control de límites  
 - ✅ Estilos modernos con **TailwindCSS**.  
 - ✅ Arquitectura simple y escalable.
+- ✅ Busqueda de los personajes
+- ✅ Visualización del detalle del personaje seleccionado
 
 ---
 
